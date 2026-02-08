@@ -15,6 +15,9 @@
   <a href="https://www.linkedin.com/in/abdelrahman-haridy-8783a3253/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://drive.google.com/file/d/1pgz2SMrVwif1jd3vEPDW_DErRbGdhP5R/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  </a>
   <a href="https://github.com/abdelrahmanharidyy">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
