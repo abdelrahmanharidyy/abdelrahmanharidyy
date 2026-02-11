@@ -83,7 +83,6 @@
       <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
     </td>
-    
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
       <br>C
@@ -98,7 +97,6 @@
       <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET" />
       <br>ASP.NET
     </td>
-  
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br>Docker
