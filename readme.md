@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/abdelrahman-haridy-8783a3253/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:a.haridy.work01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://codeforces.com/profile/A_Haridy"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-  <a href="https://www.youtube.com/@AbdelrahmanharidyPS"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://drive.google.com/file/d/1X4SsUe0bv_3VJAVboX1NCSn4jqHShB7G/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+  <a href="https://youtube.com/playlist?list=PL0M2AmV3wEPz8OXcKFyU1WfZj3C-rrhex&si=kA7jFtmyXTa4l1Jy"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://drive.google.com/file/d/1AGLEyuDnXlkBo6ePdGMjBc9sMkobnTYQ/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
 </p>
 
 ## 👋 About Me
