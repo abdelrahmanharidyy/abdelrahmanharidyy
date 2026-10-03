@@ -1,149 +1,50 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:336699,100:56CCF2&height=200&section=header&text=ABDELRAHMAN%20HARIDY&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=fff&fontAlign=50&desc=Software%20Engineer%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=18" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&pause=1000&color=336699&center=true&vCenter=true&width=700&height=100&lines=Ex-Intern+%40+Milango+%26+eFinance+%F0%9F%92%BC;ICPC+BNU+Community+Founder+%F0%9F%8E%AF;ECPC+2024+Finalist+%F0%9F%8F%86;1000%2B+Problems+Solved+%F0%9F%92%BB;Mentoring+1000%2B+Students+%F0%9F%93%9A" alt="Typing SVG" />
-</div>
-
-<br/>
-
 <p align="center">
-  <a href="mailto:a.haridy.work01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abdelrahman-haridy-8783a3253/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1X4SsUe0bv_3VJAVboX1NCSn4jqHShB7G/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
-  </a>
-  <a href="https://github.com/abdelrahmanharidyy">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.youtube.com/@AbdelrahmanharidyPS">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
+  <img src="./assets/level-2026.svg" width="100%" alt="Pixel-art level: Abdelrahman Haridy jumps on skill blocks for C++, PHP, Laravel, React Native, MySQL, Redis and Docker, then hits the Milango block and powers up to Full Stack Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdelrahmanharidyy&label=Profile%20Views&color=336699&style=flat-square" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/abdelrahman-haridy-8783a3253/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:a.haridy.work01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://codeforces.com/profile/A_Haridy"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="https://www.youtube.com/@AbdelrahmanharidyPS"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://drive.google.com/file/d/1X4SsUe0bv_3VJAVboX1NCSn4jqHShB7G/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
 </p>
 
-<br/>
+## 👋 About Me
 
-## 🚀 About Me
+<img src="./assets/about.svg" width="100%" alt="Abdelrahman Haridy, Full Stack Software Engineer at Milango. B.Sc. Computer Science, Benha National University. 1,000+ problems solved, 1,000+ students mentored, 29+ enterprise clients" />
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+## 💼 Experience
 
-### 💼 Experience
-🏢 Ex-Intern @ **Milango**  
-🏢 Ex-Intern @ **eFinance**  
+<img src="./assets/career.svg" width="100%" alt="Career path: ICPC BNU founder 2022, VuKids Academy instructor 2024, e-finance intern 2025, Milango backend intern 2025, Milango full stack engineer 2026 to present" />
 
-</td>
-<td width="50%" valign="top">
+<details>
+<summary><b>Read the details</b></summary>
 
-### 🎯 ICPC BNU Community
-👨‍🏫 **Founder & Leader**  
-📚 **Instructor**  
-🧩 **Problem Setter**  
-🏆 **1000+ Students Mentored**
+- **Full Stack Software Engineer · Milango** (Jul 2026 – present) — Sole engineer building ElAbd Marketplace end to end: containerised backend, React Native app, production deploy.
+- **Backend Engineer Intern · Milango** (Sep 2025 – Jan 2026) — Multi-tenant SaaS for 29+ enterprise clients (El Gouna, SODIC, Mountain View). Cut Filament form overhead by 40% by removing 25+ reactive calls; client-side caching for searchable selects.
+- **Software Engineer Intern · e-finance** (Jul – Aug 2025) — Government payment systems: SOLID, design patterns, layered backend.
+- **Instructor & Problem Setter · VuKids Academy** (2024 – 2026) — 50+ competitive programming problems, weekly C++ sessions.
+- **Founder & Lead Instructor · ICPC BNU Community** (Dec 2022 – Jul 2026) — First ICPC community at BNU, 1,000+ students mentored, 20-hour C++ course on YouTube.
 
-</td>
-</tr>
-</table>
+</details>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ECPC_2024-Finalist-gold?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problems_Solved-1000%2B-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Students_Impacted-1000%2B-blue?style=for-the-badge" />
-</p>
+## 🎒 Inventory
 
-<br/>
+<img src="./assets/inventory.svg" width="100%" alt="Skills. Languages: C++, PHP, JavaScript, SQL, HTML5, CSS. Backend: Laravel, Filament, REST APIs, JWT, Queues, WebSockets. Mobile and web: React Native, Expo, React. Databases: MySQL, Redis. DevOps and tools: Docker, Nginx, AWS S3, Firebase, Git, Linux, Postman, Jira. Main stack: Laravel, React Native, MySQL, Redis, Docker" />
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      <br>C
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET" />
-      <br>ASP.NET
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-  </tr>
-</table>
+<img src="./assets/projects.svg" width="100%" alt="ElAbd Marketplace, a solo-built real-estate marketplace, and Kampi, a campus food-ordering platform live on the App Store and Play Store" />
 
-<br/>
+## 🏆 Achievements Unlocked
 
-## 🏆 Competitive Programming Profiles
+<img src="./assets/achievements.svg" width="100%" alt="ECPC 2024 Finalist, ECPC 2024 Judge, founded ICPC BNU Community, 20-hour C++ course on YouTube, 1,000+ problems solved" />
 
-<p align="center">
-  <a href="https://codeforces.com/profile/A_Haridy">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-</p>
-
-<br/>
-
-## 🐍 Contribution Graph
+## 🐍 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdelrahmanharidyy/abdelrahmanharidyy/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdelrahmanharidyy/abdelrahmanharidyy/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdelrahmanharidyy/abdelrahmanharidyy/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/abdelrahmanharidyy/abdelrahmanharidyy/output/github-contribution-grid-snake.svg">
 </picture>
-
-<br/>
-<br/>
-
-<div align="center">
-  
-> *"Programming isn't about what you know; it's about what you can figure out."*  
-> **— Chris Pine**
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:336699,100:56CCF2&height=120&section=footer" />
-</div>
