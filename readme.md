@@ -35,7 +35,18 @@
 
 ## 🚀 Featured Projects
 
-<img src="./assets/projects.svg" width="100%" alt="ElAbd Marketplace, a solo-built real-estate marketplace, and Kampi, a campus food-ordering platform live on the App Store and Play Store" />
+<p align="center">
+  <a href="https://apps.apple.com/eg/app/el-abd-marketplace/id6793903626"><img src="./assets/project-elabd.svg" width="49%" alt="ElAbd Marketplace: solo-built real-estate marketplace. Opens the App Store page" /></a>
+  <a href="https://linktr.ee/kampiapp"><img src="./assets/project-kampi.svg" width="49%" alt="Kampi: campus food-ordering platform. Opens linktr.ee/kampiapp" /></a>
+</p>
+
+<p align="center">
+  <b>ElAbd Marketplace</b>&nbsp;
+  <a href="https://apps.apple.com/eg/app/el-abd-marketplace/id6793903626"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="ElAbd Marketplace on the App Store"/></a>
+  <a href="https://play.google.com/store/apps/details?id=app.milango.elabdmarketplace&hl=en_US"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="ElAbd Marketplace on Google Play"/></a>
+  &nbsp;&nbsp;<b>Kampi</b>&nbsp;
+  <a href="https://linktr.ee/kampiapp"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black" alt="Kampi on Linktree"/></a>
+</p>
 
 ## 🏆 Achievements Unlocked
 
